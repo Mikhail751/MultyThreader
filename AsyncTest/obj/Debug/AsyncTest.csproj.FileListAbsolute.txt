@@ -1,0 +1,7 @@
+C:\Users\Mikhal\source\repos\AsyncTest\bin\Debug\AsyncTest.exe.config
+C:\Users\Mikhal\source\repos\AsyncTest\bin\Debug\AsyncTest.exe
+C:\Users\Mikhal\source\repos\AsyncTest\bin\Debug\AsyncTest.pdb
+C:\Users\Mikhal\source\repos\AsyncTest\obj\Debug\AsyncTest.csprojAssemblyReference.cache
+C:\Users\Mikhal\source\repos\AsyncTest\obj\Debug\AsyncTest.csproj.CoreCompileInputs.cache
+C:\Users\Mikhal\source\repos\AsyncTest\obj\Debug\AsyncTest.exe
+C:\Users\Mikhal\source\repos\AsyncTest\obj\Debug\AsyncTest.pdb
